@@ -29,5 +29,3 @@ UPDATE [dbo].[Doc]
       ,[Remark] = N'{7}'
  WHERE N'{8}'
 ***
-
-不建議於公開網頁使用此轉換，珍惜生命，拒絕SQL Injection.
